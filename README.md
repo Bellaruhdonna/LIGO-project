@@ -2,7 +2,7 @@
 # 🌠 Chirp Mass Estimation from Gravitational Wave Signal (LIGO GW150914)
 
 **Author:** Purvasha Mathur  
-**Institute:** IIT Jodhpur | BTech AI & Data Science (1st Year)  
+**Institute:** IIT Jodhpur | BS AI & Data Science (1st Year)  
 **Project Domain:** Gravitational Wave Astrophysics, Signal Processing, Python Simulation
 
 ---
